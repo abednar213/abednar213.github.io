@@ -3,6 +3,9 @@
 ---
 
 
-Hello World!!
+Hello World!
+
+$x^2 + 3x$
+
 
 
